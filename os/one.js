@@ -1,0 +1,5 @@
+const os = require('OS')
+console.log(os.arch())
+console.log(os.freemem())
+console.log(os.totalmem())
+console.log(os.type())
